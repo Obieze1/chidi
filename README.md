@@ -23,9 +23,9 @@
 
 * pip3 install wget
 
-* cd Dark-Phish
+* cd chidi
 
-* python3 dark-phish.py
+* python3 chidi.py
 
 ## chidi ##
 ![](core/image.png)
